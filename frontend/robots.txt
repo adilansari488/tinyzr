@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://urlshortener.tinyzr.link/sitemap.xml
